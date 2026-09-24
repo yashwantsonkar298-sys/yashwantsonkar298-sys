@@ -274,7 +274,14 @@ AI-focused experimental system
 </div>
 
 <br>
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GITHUB STATS</h2>
 
+<div align="center">
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=yashwantsonkar298-sys&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
 <!-- CURRENT MISSION -->
 
 <h2 align="center">🎯 CURRENT MISSION</h2>
