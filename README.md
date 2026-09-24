@@ -269,7 +269,7 @@ AI-focused experimental system
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantsonkar298-sys&bg_color=0D1117&color=00E7FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true"/>
+
 <img width="100%" src="https://raw.githubusercontent.com/yashwantsonkar298-sys/yashwantsonkar298-sys/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
